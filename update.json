@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/skirik2020/spring-releases/releases/download/v1.1.1/app-release.apk",
-  "notes": "Клики только по пружине, плавный возврат цвета после финала"
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/skirik2020/spring-releases/releases/download/v1.1.2/app-release.apk",
+  "notes": "Debug: номер этапа рядом со счетчиком тапов"
 }
